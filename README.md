@@ -28,7 +28,9 @@ Quer adicionar mais funções ao projeto? É super fácil!
 - PHP: Para o backend e CRUDs.
 - Quer ver o código funcionando?
 
-> Aviso: Este projeto está em constante desenvolvimento, então pode conter alguns bugs. Se você encontrar algum, por favor, abra uma issue. ;)
+> **ATENÇÃO:** Este projeto foi feito utilizando APACHE, para executá-lo é preciso que o APACHE esteja ativo na sua máquina!
+
+> Aviso: Este projeto está em constante desenvolvimento, então pode conter alguns bugs. Se você encontrar algum, abra uma issue. ;)
 
 Obrigado por visitar!  
 Veja também meu projeto [SomberDex](https://github.com/Bushhdog/SomberDex)
